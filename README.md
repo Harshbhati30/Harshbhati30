@@ -42,10 +42,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Payments**
 
-![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Harshbhati30&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
